@@ -4,6 +4,9 @@
   <head>
   </head>
   <body>
+  <p>This automated Wedding Planning Application help hands with clients and services providers of wedding planning process. The Wedding Planning Application is aimed to make their weddings in an effective and efficient way. Not only that this system hopes to manage time to all clients and Services providers. In a Society wedding event take major part. The conventional methods of wedding planning are in a traditional or manual method. But the aim of this new system is to implement an automated way by introducing this system into practice, we can minimize the shortcomings of the current system.  
+This system will enable Service providers to add their packages, prices by accessing the Wedding planning application. Each Client and Service providers can login to the System by their username as their mail and password which they had set to their system. Admin must register service providers to the system. Clients can register to system directly. Only the administrator can access all the details. Therefore, the information of the customers and service providers is protected through this proposed system. This system is simple in design. As a result, anyone may work in the system without experiencing any difficulties. As a result, authorized people may quickly log in to the system and obtain a rapid and unambiguous result utilizing this automated method. 
+</p>
   <div>
   
 <h3>start page</h3>
